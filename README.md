@@ -1,4 +1,13 @@
-# loyola-github-workshop
-workshop on github in aliet
-two day workshop
-git and github
+# heading1
+## heading2
+### heading3
+#### heading4
+##### heading5
+###### heading6
+*italic type of font styles*
+
+**bold type of font styles**
+
+***bold & italic type of font styles***
+
+[google](google.com)
