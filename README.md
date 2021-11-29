@@ -18,3 +18,6 @@
   * tarak
   * prabhas
   * ram
+1. languages
+  2. telugu
+  3. english 
