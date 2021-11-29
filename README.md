@@ -10,4 +10,4 @@
 
 ***bold & italic type of font styles***
 
-[google](google.com)
+[google](www.google.com)
