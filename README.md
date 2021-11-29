@@ -29,4 +29,3 @@ sno|Name
 3|loner
 
 ~~ITS A LOOSING GAME~~
-~~ARCADE EMOTION~~
