@@ -21,3 +21,9 @@
 1. languages
   2. telugu
   3. english 
+
+sno|Name
+---|---
+1|prakash
+2|fire
+3|loner
